@@ -1,3 +1,5 @@
+![Search Page](screenshot.png)
+
 # _Bike-Index_
 
 #### _A JavaScript webapp that uses the CORs-compliant API from Bike Index to retreive data from a bike database._ 
